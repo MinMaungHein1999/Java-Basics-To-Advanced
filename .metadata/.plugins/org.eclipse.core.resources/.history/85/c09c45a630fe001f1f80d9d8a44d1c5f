@@ -1,0 +1,13 @@
+package looping;
+
+public class Ex1 {
+
+	public static void main(String[] args) {
+		
+		for(System.out.print("Min"); true; System.out.print("Hein")) {
+			System.out.println(i + " ");
+		}
+
+	}
+
+}
